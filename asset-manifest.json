@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/esp-studio/static/css/main.998af97e.css",
+    "main.js": "/esp-studio/static/js/main.bcb1b482.js",
+    "static/media/SFNSDisplay-Semibold.otf": "/esp-studio/static/media/SFNSDisplay-Semibold.b1cbfd8df20ade660469.otf",
+    "static/media/SFNSDisplay-Medium.otf": "/esp-studio/static/media/SFNSDisplay-Medium.0d6a447cb6bea27ee045.otf",
+    "index.html": "/esp-studio/index.html",
+    "main.998af97e.css.map": "/esp-studio/static/css/main.998af97e.css.map",
+    "main.bcb1b482.js.map": "/esp-studio/static/js/main.bcb1b482.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.998af97e.css",
+    "static/js/main.bcb1b482.js"
+  ]
+}

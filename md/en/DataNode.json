@@ -1,0 +1,184 @@
+{
+  "data": {
+    "items": [
+      {
+        "created": 1693594707654967000,
+        "createdFormatted": "2023/09/01 20:58:27",
+        "name": "GPIO 6",
+        "type": {
+          "created": 1693594707642373000,
+          "name": "Int64",
+          "uniqueId": "int64",
+          "updated": 1693594707642373000,
+          "userId": "",
+          "visibility": "A",
+          "workspaceId": ""
+        },
+        "typeId": "int64",
+        "uniqueId": "GPIO_6",
+        "updated": 1693594707654967000,
+        "userId": "",
+        "visibility": "A",
+        "workspaceId": "",
+        "writers": [
+          {
+            "created": 1693594707655367000,
+            "fn": "general_io_writer",
+            "linkerId": "GPIO_6",
+            "uniqueId": "1ad1e5ff",
+            "updated": 1693594707655367000
+          }
+        ]
+      },
+      {
+        "created": 1693594707653139000,
+        "createdFormatted": "2023/09/01 20:58:27",
+        "name": "GPIO 5",
+        "type": {
+          "created": 1693594707642373000,
+          "name": "Int64",
+          "uniqueId": "int64",
+          "updated": 1693594707642373000,
+          "userId": "",
+          "visibility": "A",
+          "workspaceId": ""
+        },
+        "typeId": "int64",
+        "uniqueId": "GPIO_5",
+        "updated": 1693594707653139000,
+        "userId": "",
+        "visibility": "A",
+        "workspaceId": "",
+        "writers": [
+          {
+            "created": 1693594707653556000,
+            "fn": "general_io_writer",
+            "linkerId": "GPIO_5",
+            "uniqueId": "1039dc5c",
+            "updated": 1693594707653556000
+          }
+        ]
+      },
+      {
+        "created": 1693594707651376000,
+        "createdFormatted": "2023/09/01 20:58:27",
+        "name": "GPIO 4",
+        "type": {
+          "created": 1693594707642373000,
+          "name": "Int64",
+          "uniqueId": "int64",
+          "updated": 1693594707642373000,
+          "userId": "",
+          "visibility": "A",
+          "workspaceId": ""
+        },
+        "typeId": "int64",
+        "uniqueId": "GPIO_4",
+        "updated": 1693594707651376000,
+        "userId": "",
+        "visibility": "A",
+        "workspaceId": "",
+        "writers": [
+          {
+            "created": 1693594707651741000,
+            "fn": "general_io_writer",
+            "linkerId": "GPIO_4",
+            "uniqueId": "6541384c",
+            "updated": 1693594707651741000
+          }
+        ]
+      },
+      {
+        "created": 1693594707649674000,
+        "createdFormatted": "2023/09/01 20:58:27",
+        "name": "GPIO 3",
+        "type": {
+          "created": 1693594707642373000,
+          "name": "Int64",
+          "uniqueId": "int64",
+          "updated": 1693594707642373000,
+          "userId": "",
+          "visibility": "A",
+          "workspaceId": ""
+        },
+        "typeId": "int64",
+        "uniqueId": "GPIO_3",
+        "updated": 1693594707649674000,
+        "userId": "",
+        "visibility": "A",
+        "workspaceId": "",
+        "writers": [
+          {
+            "created": 1693594707650056000,
+            "fn": "general_io_writer",
+            "linkerId": "GPIO_3",
+            "uniqueId": "09326aab",
+            "updated": 1693594707650056000
+          }
+        ]
+      },
+      {
+        "created": 1693594707647952000,
+        "createdFormatted": "2023/09/01 20:58:27",
+        "name": "GPIO 2",
+        "type": {
+          "created": 1693594707642373000,
+          "name": "Int64",
+          "uniqueId": "int64",
+          "updated": 1693594707642373000,
+          "userId": "",
+          "visibility": "A",
+          "workspaceId": ""
+        },
+        "typeId": "int64",
+        "uniqueId": "GPIO_2",
+        "updated": 1693594707647952000,
+        "userId": "",
+        "visibility": "A",
+        "workspaceId": "",
+        "writers": [
+          {
+            "created": 1693594707648341000,
+            "fn": "general_io_writer",
+            "linkerId": "GPIO_2",
+            "uniqueId": "65cd110c",
+            "updated": 1693594707648341000
+          }
+        ]
+      },
+      {
+        "created": 1693594707646050000,
+        "createdFormatted": "2023/09/01 20:58:27",
+        "name": "GPIO 1",
+        "type": {
+          "created": 1693594707642373000,
+          "name": "Int64",
+          "uniqueId": "int64",
+          "updated": 1693594707642373000,
+          "userId": "",
+          "visibility": "A",
+          "workspaceId": ""
+        },
+        "typeId": "int64",
+        "uniqueId": "GPIO_1",
+        "updated": 1693594707646050000,
+        "userId": "",
+        "visibility": "A",
+        "workspaceId": "",
+        "writers": [
+          {
+            "created": 1693594707646477000,
+            "fn": "general_io_writer",
+            "linkerId": "GPIO_1",
+            "uniqueId": "44f0f663",
+            "updated": 1693594707646477000
+          }
+        ]
+      }
+    ],
+    "itemsPerPage": 9999,
+    "startIndex": 0,
+    "totalAvailableItems": 6,
+    "totalItems": 6
+  }
+}
