@@ -2,8 +2,8 @@
   "data": {
     "items": [
       {
-        "created": 1693594713999769000,
-        "createdFormatted": "2023/09/01 20:58:33",
+        "created": 1693598022858609000,
+        "createdFormatted": "2023/09/01 21:53:42",
         "layouts": "{\"lg\":[{\"w\":1,\"h\":3,\"x\":3,\"y\":0,\"i\":\"ESP_GPIO4\",\"moved\":false,\"static\":false},{\"w\":1,\"h\":3,\"x\":4,\"y\":0,\"i\":\"ESP_GPIO5\",\"moved\":false,\"static\":false},{\"w\":1,\"h\":3,\"x\":0,\"y\":0,\"i\":\"ESP_GPIO13\",\"moved\":false,\"static\":false},{\"w\":1,\"h\":3,\"x\":1,\"y\":0,\"i\":\"ESP_GPIO14\",\"moved\":false,\"static\":false},{\"w\":1,\"h\":3,\"x\":2,\"y\":0,\"i\":\"ESP_GPIO15\",\"moved\":false,\"static\":false},{\"w\":1,\"h\":3,\"x\":5,\"y\":0,\"i\":\"ESP_GPIO16\",\"moved\":false,\"static\":false},{\"w\":1,\"h\":3,\"x\":6,\"y\":0,\"i\":\"ESP_GPIO17\",\"moved\":false,\"static\":false},{\"w\":1,\"h\":3,\"x\":7,\"y\":0,\"i\":\"ESP_GPIO18\",\"moved\":false,\"static\":false},{\"w\":1,\"h\":3,\"x\":8,\"y\":0,\"i\":\"ESP_GPIO19\",\"moved\":false,\"static\":false}],\"xs\":[{\"w\":2,\"h\":2,\"x\":2,\"y\":2,\"i\":\"ESP_GPIO4\",\"moved\":false,\"static\":false},{\"w\":2,\"h\":2,\"x\":0,\"y\":4,\"i\":\"ESP_GPIO5\",\"moved\":false,\"static\":false},{\"w\":2,\"h\":2,\"x\":0,\"y\":0,\"i\":\"ESP_GPIO13\",\"moved\":false,\"static\":false},{\"w\":2,\"h\":2,\"x\":2,\"y\":0,\"i\":\"ESP_GPIO14\",\"moved\":false,\"static\":false},{\"w\":2,\"h\":2,\"x\":0,\"y\":2,\"i\":\"ESP_GPIO15\",\"moved\":false,\"static\":false},{\"w\":2,\"h\":2,\"x\":2,\"y\":4,\"i\":\"ESP_GPIO16\",\"moved\":false,\"static\":false},{\"w\":2,\"h\":2,\"x\":0,\"y\":6,\"i\":\"ESP_GPIO17\",\"moved\":false,\"static\":false},{\"w\":2,\"h\":2,\"x\":2,\"y\":6,\"i\":\"ESP_GPIO18\",\"moved\":false,\"static\":false},{\"w\":4,\"h\":5,\"x\":0,\"y\":8,\"i\":\"ESP_GPIO19\",\"moved\":false,\"static\":false}],\"md\":[{\"w\":2,\"h\":3,\"x\":6,\"y\":0,\"i\":\"ESP_GPIO4\",\"moved\":false,\"static\":false},{\"w\":2,\"h\":3,\"x\":8,\"y\":0,\"i\":\"ESP_GPIO5\",\"moved\":false,\"static\":false},{\"w\":2,\"h\":3,\"x\":0,\"y\":0,\"i\":\"ESP_GPIO13\",\"moved\":false,\"static\":false},{\"w\":2,\"h\":3,\"x\":2,\"y\":0,\"i\":\"ESP_GPIO14\",\"moved\":false,\"static\":false},{\"w\":2,\"h\":3,\"x\":4,\"y\":0,\"i\":\"ESP_GPIO15\",\"moved\":false,\"static\":false},{\"w\":2,\"h\":2,\"x\":0,\"y\":3,\"i\":\"ESP_GPIO16\",\"moved\":false,\"static\":false},{\"w\":2,\"h\":2,\"x\":2,\"y\":3,\"i\":\"ESP_GPIO17\",\"moved\":false,\"static\":false},{\"w\":2,\"h\":2,\"x\":4,\"y\":3,\"i\":\"ESP_GPIO18\",\"moved\":false,\"static\":false},{\"w\":2,\"h\":2,\"x\":6,\"y\":3,\"i\":\"ESP_GPIO19\",\"moved\":false,\"static\":false}],\"sm\":[{\"w\":1,\"h\":3,\"x\":4,\"y\":0,\"i\":\"ESP_GPIO4\",\"moved\":false,\"static\":false},{\"w\":1,\"h\":3,\"x\":5,\"y\":0,\"i\":\"ESP_GPIO5\",\"moved\":false,\"static\":false},{\"w\":2,\"h\":3,\"x\":0,\"y\":0,\"i\":\"ESP_GPIO13\",\"moved\":false,\"static\":false},{\"w\":1,\"h\":3,\"x\":2,\"y\":0,\"i\":\"ESP_GPIO14\",\"moved\":false,\"static\":false},{\"w\":1,\"h\":3,\"x\":3,\"y\":0,\"i\":\"ESP_GPIO15\",\"moved\":false,\"static\":false},{\"w\":2,\"h\":2,\"x\":0,\"y\":3,\"i\":\"ESP_GPIO16\",\"moved\":false,\"static\":false},{\"w\":2,\"h\":2,\"x\":2,\"y\":3,\"i\":\"ESP_GPIO17\",\"moved\":false,\"static\":false},{\"w\":1,\"h\":2,\"x\":4,\"y\":3,\"i\":\"ESP_GPIO18\",\"moved\":false,\"static\":false},{\"w\":1,\"h\":2,\"x\":5,\"y\":3,\"i\":\"ESP_GPIO19\",\"moved\":false,\"static\":false}],\"xxs\":[{\"w\":1,\"h\":3,\"x\":1,\"y\":3,\"i\":\"ESP_GPIO4\",\"moved\":false,\"static\":false},{\"w\":1,\"h\":3,\"x\":0,\"y\":6,\"i\":\"ESP_GPIO5\",\"moved\":false,\"static\":false},{\"w\":1,\"h\":3,\"x\":0,\"y\":0,\"i\":\"ESP_GPIO13\",\"moved\":false,\"static\":false},{\"w\":1,\"h\":3,\"x\":1,\"y\":0,\"i\":\"ESP_GPIO14\",\"moved\":false,\"static\":false},{\"w\":1,\"h\":3,\"x\":0,\"y\":3,\"i\":\"ESP_GPIO15\",\"moved\":false,\"static\":false},{\"w\":1,\"h\":3,\"x\":1,\"y\":6,\"i\":\"ESP_GPIO16\",\"moved\":false,\"static\":false},{\"w\":1,\"h\":2,\"x\":0,\"y\":9,\"i\":\"ESP_GPIO17\",\"moved\":false,\"static\":false},{\"w\":1,\"h\":2,\"x\":1,\"y\":9,\"i\":\"ESP_GPIO18\",\"moved\":false,\"static\":false},{\"w\":2,\"h\":3,\"x\":0,\"y\":11,\"i\":\"ESP_GPIO19\",\"moved\":false,\"static\":false}]}",
         "name": "ESP32 GPIO",
         "translations": [
@@ -14,12 +14,12 @@
           }
         ],
         "uniqueId": "esp32_gpio_dashboard",
-        "updated": 1693594713999769000,
+        "updated": 1693598022858609000,
         "userId": "",
         "visibility": "A",
         "widgets": [
           {
-            "created": 1693594714000364000,
+            "created": 1693598022859262000,
             "data": "{\"dataNodeId\": \"GPIO_4\", \"name\": \"GPIO_4\"}",
             "linkerId": "esp32_gpio_dashboard",
             "title": "GPIO4",
@@ -31,13 +31,13 @@
               }
             ],
             "uniqueId": "ESP_GPIO4",
-            "updated": 1693594714000364000,
+            "updated": 1693598022859262000,
             "widget": {
-              "created": 1693594713990830000,
+              "created": 1693598022848876000,
               "name": "Single Digital Writer",
               "providerKey": "single_digital_gpio",
               "uniqueId": "single_digital_gpio",
-              "updated": 1693594713990830000,
+              "updated": 1693598022848876000,
               "userId": "",
               "visibility": "A",
               "workspaceId": ""
@@ -46,7 +46,7 @@
             "workspaceId": "system"
           },
           {
-            "created": 1693594714000364000,
+            "created": 1693598022859262000,
             "data": "{\"dataNodeId\": \"GPIO_5\", \"name\": \"GPIO_5\"}",
             "linkerId": "esp32_gpio_dashboard",
             "title": "GPIO5",
@@ -58,13 +58,13 @@
               }
             ],
             "uniqueId": "ESP_GPIO5",
-            "updated": 1693594714000364000,
+            "updated": 1693598022859262000,
             "widget": {
-              "created": 1693594713990830000,
+              "created": 1693598022848876000,
               "name": "Single Digital Writer",
               "providerKey": "single_digital_gpio",
               "uniqueId": "single_digital_gpio",
-              "updated": 1693594713990830000,
+              "updated": 1693598022848876000,
               "userId": "",
               "visibility": "A",
               "workspaceId": ""
@@ -73,7 +73,7 @@
             "workspaceId": "system"
           },
           {
-            "created": 1693594714000364000,
+            "created": 1693598022859262000,
             "data": "{\"dataNodeId\": \"GPIO_13\", \"name\": \"GPIO_13\"}",
             "linkerId": "esp32_gpio_dashboard",
             "title": "GPIO13",
@@ -85,13 +85,13 @@
               }
             ],
             "uniqueId": "ESP_GPIO13",
-            "updated": 1693594714000364000,
+            "updated": 1693598022859262000,
             "widget": {
-              "created": 1693594713990830000,
+              "created": 1693598022848876000,
               "name": "Single Digital Writer",
               "providerKey": "single_digital_gpio",
               "uniqueId": "single_digital_gpio",
-              "updated": 1693594713990830000,
+              "updated": 1693598022848876000,
               "userId": "",
               "visibility": "A",
               "workspaceId": ""
@@ -100,7 +100,7 @@
             "workspaceId": "system"
           },
           {
-            "created": 1693594714000364000,
+            "created": 1693598022859262000,
             "data": "{\"dataNodeId\": \"GPIO_14\", \"name\": \"GPIO_14\"}",
             "linkerId": "esp32_gpio_dashboard",
             "title": "GPIO14",
@@ -112,13 +112,13 @@
               }
             ],
             "uniqueId": "ESP_GPIO14",
-            "updated": 1693594714000364000,
+            "updated": 1693598022859262000,
             "widget": {
-              "created": 1693594713990830000,
+              "created": 1693598022848876000,
               "name": "Single Digital Writer",
               "providerKey": "single_digital_gpio",
               "uniqueId": "single_digital_gpio",
-              "updated": 1693594713990830000,
+              "updated": 1693598022848876000,
               "userId": "",
               "visibility": "A",
               "workspaceId": ""
@@ -127,7 +127,7 @@
             "workspaceId": "system"
           },
           {
-            "created": 1693594714000364000,
+            "created": 1693598022859262000,
             "data": "{\"dataNodeId\": \"GPIO_15\", \"name\": \"GPIO_15\"}",
             "linkerId": "esp32_gpio_dashboard",
             "title": "GPIO15",
@@ -139,13 +139,13 @@
               }
             ],
             "uniqueId": "ESP_GPIO15",
-            "updated": 1693594714000364000,
+            "updated": 1693598022859262000,
             "widget": {
-              "created": 1693594713990830000,
+              "created": 1693598022848876000,
               "name": "Single Digital Writer",
               "providerKey": "single_digital_gpio",
               "uniqueId": "single_digital_gpio",
-              "updated": 1693594713990830000,
+              "updated": 1693598022848876000,
               "userId": "",
               "visibility": "A",
               "workspaceId": ""
@@ -154,7 +154,7 @@
             "workspaceId": "system"
           },
           {
-            "created": 1693594714000364000,
+            "created": 1693598022859262000,
             "data": "{\"dataNodeId\": \"GPIO_16\", \"name\": \"GPIO_16\"}",
             "linkerId": "esp32_gpio_dashboard",
             "title": "GPIO16",
@@ -166,13 +166,13 @@
               }
             ],
             "uniqueId": "ESP_GPIO16",
-            "updated": 1693594714000364000,
+            "updated": 1693598022859262000,
             "widget": {
-              "created": 1693594713990830000,
+              "created": 1693598022848876000,
               "name": "Single Digital Writer",
               "providerKey": "single_digital_gpio",
               "uniqueId": "single_digital_gpio",
-              "updated": 1693594713990830000,
+              "updated": 1693598022848876000,
               "userId": "",
               "visibility": "A",
               "workspaceId": ""
@@ -181,7 +181,7 @@
             "workspaceId": "system"
           },
           {
-            "created": 1693594714000364000,
+            "created": 1693598022859262000,
             "data": "{\"dataNodeId\": \"GPIO_17\", \"name\": \"GPIO_17\"}",
             "linkerId": "esp32_gpio_dashboard",
             "title": "GPIO17",
@@ -193,13 +193,13 @@
               }
             ],
             "uniqueId": "ESP_GPIO17",
-            "updated": 1693594714000364000,
+            "updated": 1693598022859262000,
             "widget": {
-              "created": 1693594713990830000,
+              "created": 1693598022848876000,
               "name": "Single Digital Writer",
               "providerKey": "single_digital_gpio",
               "uniqueId": "single_digital_gpio",
-              "updated": 1693594713990830000,
+              "updated": 1693598022848876000,
               "userId": "",
               "visibility": "A",
               "workspaceId": ""
@@ -208,7 +208,7 @@
             "workspaceId": "system"
           },
           {
-            "created": 1693594714000364000,
+            "created": 1693598022859262000,
             "data": "{\"dataNodeId\": \"GPIO_18\", \"name\": \"GPIO_18\"}",
             "linkerId": "esp32_gpio_dashboard",
             "title": "GPIO18",
@@ -220,13 +220,13 @@
               }
             ],
             "uniqueId": "ESP_GPIO18",
-            "updated": 1693594714000364000,
+            "updated": 1693598022859262000,
             "widget": {
-              "created": 1693594713990830000,
+              "created": 1693598022848876000,
               "name": "Single Digital Writer",
               "providerKey": "single_digital_gpio",
               "uniqueId": "single_digital_gpio",
-              "updated": 1693594713990830000,
+              "updated": 1693598022848876000,
               "userId": "",
               "visibility": "A",
               "workspaceId": ""
@@ -235,7 +235,7 @@
             "workspaceId": "system"
           },
           {
-            "created": 1693594714000364000,
+            "created": 1693598022859262000,
             "data": "{\"dataNodeId\": \"GPIO_19\", \"name\": \"GPIO_19\"}",
             "linkerId": "esp32_gpio_dashboard",
             "title": "GPIO19",
@@ -247,13 +247,13 @@
               }
             ],
             "uniqueId": "ESP_GPIO19",
-            "updated": 1693594714000364000,
+            "updated": 1693598022859262000,
             "widget": {
-              "created": 1693594713990830000,
+              "created": 1693598022848876000,
               "name": "Single Digital Writer",
               "providerKey": "single_digital_gpio",
               "uniqueId": "single_digital_gpio",
-              "updated": 1693594713990830000,
+              "updated": 1693598022848876000,
               "userId": "",
               "visibility": "A",
               "workspaceId": ""
@@ -265,8 +265,8 @@
         "workspaceId": ""
       },
       {
-        "created": 1693594713996559000,
-        "createdFormatted": "2023/09/01 20:58:33",
+        "created": 1693598022855149000,
+        "createdFormatted": "2023/09/01 21:53:42",
         "layouts": "{\"lg\":[{\"w\":2,\"h\":3,\"x\":0,\"y\":0,\"i\":\"gpio1\",\"moved\":false,\"static\":false},{\"w\":2,\"h\":3,\"x\":2,\"y\":0,\"i\":\"gpio2\",\"moved\":false,\"static\":false},{\"w\":2,\"h\":3,\"x\":4,\"y\":0,\"i\":\"gpio3\",\"moved\":false,\"static\":false},{\"w\":6,\"h\":3,\"x\":6,\"y\":0,\"i\":\"temperature_widget\",\"moved\":false,\"static\":false}],\"xs\":[{\"w\":1,\"h\":3,\"x\":0,\"y\":0,\"i\":\"gpio1\",\"moved\":false,\"static\":false},{\"w\":2,\"h\":3,\"x\":1,\"y\":0,\"i\":\"gpio2\",\"moved\":false,\"static\":false},{\"w\":1,\"h\":3,\"x\":3,\"y\":0,\"i\":\"gpio3\",\"moved\":false,\"static\":false},{\"w\":4,\"h\":5,\"x\":0,\"y\":3,\"i\":\"temperature_widget\",\"moved\":false,\"static\":false}],\"md\":[{\"w\":2,\"h\":3,\"x\":0,\"y\":0,\"i\":\"gpio1\",\"moved\":false,\"static\":false},{\"w\":2,\"h\":3,\"x\":2,\"y\":0,\"i\":\"gpio2\",\"moved\":false,\"static\":false},{\"w\":2,\"h\":3,\"x\":4,\"y\":0,\"i\":\"gpio3\",\"moved\":false,\"static\":false},{\"w\":4,\"h\":3,\"x\":6,\"y\":0,\"i\":\"temperature_widget\",\"moved\":false,\"static\":false}],\"sm\":[{\"w\":2,\"h\":3,\"x\":0,\"y\":0,\"i\":\"gpio1\",\"moved\":false,\"static\":false},{\"w\":2,\"h\":3,\"x\":2,\"y\":0,\"i\":\"gpio2\",\"moved\":false,\"static\":false},{\"w\":2,\"h\":6,\"x\":4,\"y\":0,\"i\":\"gpio3\",\"moved\":false,\"static\":false},{\"w\":4,\"h\":3,\"x\":0,\"y\":3,\"i\":\"temperature_widget\",\"moved\":false,\"static\":false}],\"xxs\":[{\"w\":1,\"h\":3,\"x\":0,\"y\":0,\"i\":\"gpio1\",\"moved\":false,\"static\":false},{\"w\":1,\"h\":3,\"x\":0,\"y\":5,\"i\":\"gpio2\",\"moved\":false,\"static\":false},{\"w\":1,\"h\":3,\"x\":1,\"y\":0,\"i\":\"gpio3\",\"moved\":false,\"static\":false},{\"w\":2,\"h\":2,\"x\":0,\"y\":3,\"i\":\"temperature_widget\",\"moved\":false,\"static\":false}]}",
         "name": "Dashboard 1",
         "translations": [
@@ -277,11 +277,11 @@
           }
         ],
         "uniqueId": "dashboard_iot",
-        "updated": 1693594713996559000,
+        "updated": 1693598022855149000,
         "userId": "",
         "widgets": [
           {
-            "created": 1693594713997040000,
+            "created": 1693598022855728000,
             "data": "{\"dataNodeId\": \"GPIO_1\", \"name\": \"GPIO_1\"}",
             "h": 2,
             "linkerId": "dashboard_iot",
@@ -294,14 +294,14 @@
               }
             ],
             "uniqueId": "gpio1",
-            "updated": 1693594713997040000,
+            "updated": 1693598022855728000,
             "w": 2,
             "widget": {
-              "created": 1693594713990830000,
+              "created": 1693598022848876000,
               "name": "Single Digital Writer",
               "providerKey": "single_digital_gpio",
               "uniqueId": "single_digital_gpio",
-              "updated": 1693594713990830000,
+              "updated": 1693598022848876000,
               "userId": "",
               "visibility": "A",
               "workspaceId": ""
@@ -310,7 +310,7 @@
             "workspaceId": "root"
           },
           {
-            "created": 1693594713997040000,
+            "created": 1693598022855728000,
             "data": "{\"dataNodeId\": \"GPIO_2\", \"name\": \"GPIO_2\"}",
             "h": 2,
             "linkerId": "dashboard_iot",
@@ -323,14 +323,14 @@
               }
             ],
             "uniqueId": "gpio2",
-            "updated": 1693594713997040000,
+            "updated": 1693598022855728000,
             "w": 2,
             "widget": {
-              "created": 1693594713990830000,
+              "created": 1693598022848876000,
               "name": "Single Digital Writer",
               "providerKey": "single_digital_gpio",
               "uniqueId": "single_digital_gpio",
-              "updated": 1693594713990830000,
+              "updated": 1693598022848876000,
               "userId": "",
               "visibility": "A",
               "workspaceId": ""
@@ -339,7 +339,7 @@
             "x": 2
           },
           {
-            "created": 1693594713997040000,
+            "created": 1693598022855728000,
             "data": "{\"dataNodeId\": \"GPIO_3\", \"name\": \"GPIO_3\"}",
             "h": 2,
             "linkerId": "dashboard_iot",
@@ -352,14 +352,14 @@
               }
             ],
             "uniqueId": "gpio3",
-            "updated": 1693594713997040000,
+            "updated": 1693598022855728000,
             "w": 2,
             "widget": {
-              "created": 1693594713990830000,
+              "created": 1693598022848876000,
               "name": "Single Digital Writer",
               "providerKey": "single_digital_gpio",
               "uniqueId": "single_digital_gpio",
-              "updated": 1693594713990830000,
+              "updated": 1693598022848876000,
               "userId": "",
               "visibility": "A",
               "workspaceId": ""
@@ -369,7 +369,7 @@
             "x": 4
           },
           {
-            "created": 1693594713997040000,
+            "created": 1693598022855728000,
             "data": "{\"dataNodeId\": \"GPIO_8\", \"name\": \"Fan Speed (IO8)\"}",
             "h": 2,
             "linkerId": "dashboard_iot",
@@ -382,14 +382,14 @@
               }
             ],
             "uniqueId": "temperature_widget",
-            "updated": 1693594713997040000,
+            "updated": 1693598022855728000,
             "w": 2,
             "widget": {
-              "created": 1693594713994264000,
+              "created": 1693598022852543000,
               "name": "Numeric Value Realtime Chart",
               "providerKey": "numeric_value_realtime_chart",
               "uniqueId": "numeric_value_realtime_chart",
-              "updated": 1693594713994264000,
+              "updated": 1693598022852543000,
               "userId": "",
               "visibility": "A",
               "workspaceId": ""
