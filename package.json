@@ -1,0 +1,22 @@
+{
+  "name": "esp-studio",
+  "version": "1.0.0",
+  "description": "ESP Studio dashboard manages gpio on esp32 series",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d out -t true"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/torabian/esp-studio.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/torabian/esp-studio/issues"
+  },
+  "homepage": "https://github.com/torabian/esp-studio#readme",
+  "dependencies": {
+    "gh-pages": "^6.0.0"
+  }
+}
