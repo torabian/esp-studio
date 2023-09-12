@@ -1,0 +1,67 @@
+{
+  "data": {
+    "items": [
+      {
+        "created": 1694551987934729000,
+        "createdFormatted": "۲۱ شهریور ۱۴۰۲",
+        "name": "GPIO Trigger",
+        "triggerType": {
+          "created": 1694551987789759000,
+          "name": "GPIO Change",
+          "uniqueId": "gpiovalue",
+          "updated": 1694551987789759000,
+          "userId": "",
+          "visibility": "A",
+          "workspaceId": ""
+        },
+        "triggerTypeGpioValue": {
+          "beginHour": 1500,
+          "compareTypeId": "moreThan",
+          "compareValueInt": 100,
+          "created": 1694551987935095000,
+          "endHour": 1930,
+          "gpioId": "ESP32_GPIO0",
+          "linkerId": "gpiovalue",
+          "thresholdPrecentage": 10,
+          "uniqueId": "bf4fe83b",
+          "updated": 1694551987935095000
+        },
+        "triggerTypeId": "gpiovalue",
+        "uniqueId": "gpiovalue",
+        "updated": 1694551987934729000,
+        "userId": "",
+        "workspaceId": ""
+      },
+      {
+        "created": 1694551987932801000,
+        "createdFormatted": "۲۱ شهریور ۱۴۰۲",
+        "name": "Time Trigger",
+        "triggerType": {
+          "created": 1694551987804313000,
+          "name": "Cronjob",
+          "uniqueId": "cronjob",
+          "updated": 1694551987804313000,
+          "userId": "",
+          "visibility": "A",
+          "workspaceId": ""
+        },
+        "triggerTypeCronjob": {
+          "created": 1694551987933200000,
+          "expression": "* 2 8 5 2",
+          "linkerId": "trigger",
+          "uniqueId": "54aa2648",
+          "updated": 1694551987933200000
+        },
+        "triggerTypeId": "cronjob",
+        "uniqueId": "trigger",
+        "updated": 1694551987932801000,
+        "userId": "",
+        "workspaceId": ""
+      }
+    ],
+    "itemsPerPage": 9999,
+    "startIndex": 0,
+    "totalAvailableItems": 2,
+    "totalItems": 2
+  }
+}

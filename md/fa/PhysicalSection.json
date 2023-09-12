@@ -1,0 +1,63 @@
+{
+  "data": {
+    "items": [
+      {
+        "created": 1694551987777243000,
+        "createdFormatted": "۲۱ شهریور ۱۴۰۲",
+        "name": "Dirty Kitchen",
+        "parentId": "golbargkitchen",
+        "uniqueId": "golbargkitchendirty",
+        "updated": 1694551987777243000,
+        "userId": "",
+        "visibility": "A",
+        "workspaceId": ""
+      },
+      {
+        "created": 1694551987774771000,
+        "createdFormatted": "۲۱ شهریور ۱۴۰۲",
+        "name": "Clean Kitchen",
+        "parentId": "golbargkitchen",
+        "uniqueId": "golbargkitchenclean",
+        "updated": 1694551987774771000,
+        "userId": "",
+        "visibility": "A",
+        "workspaceId": ""
+      },
+      {
+        "created": 1694551987773164000,
+        "createdFormatted": "۲۱ شهریور ۱۴۰۲",
+        "name": "Golbarg Kitchen",
+        "parentId": "golbargbuilding",
+        "uniqueId": "golbargkitchen",
+        "updated": 1694551987773164000,
+        "userId": "",
+        "visibility": "A",
+        "workspaceId": ""
+      },
+      {
+        "created": 1694551987771586000,
+        "createdFormatted": "۲۱ شهریور ۱۴۰۲",
+        "name": "Golbarg Building",
+        "uniqueId": "golbargbuilding",
+        "updated": 1694551987771586000,
+        "userId": "",
+        "visibility": "A",
+        "workspaceId": ""
+      },
+      {
+        "created": 1694551987770043000,
+        "createdFormatted": "۲۱ شهریور ۱۴۰۲",
+        "name": "Building 1",
+        "uniqueId": "building1",
+        "updated": 1694551987770043000,
+        "userId": "",
+        "visibility": "A",
+        "workspaceId": ""
+      }
+    ],
+    "itemsPerPage": 9999,
+    "startIndex": 0,
+    "totalAvailableItems": 5,
+    "totalItems": 5
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "data": {
+    "items": [
+      {
+        "created": 1694551987883075000,
+        "createdFormatted": "2023/09/12 22:53:07",
+        "name": "System on Chip",
+        "translations": [
+          {
+            "languageId": "fa",
+            "linkerId": "soc",
+            "name": "سیستم بر چیپ"
+          }
+        ],
+        "uniqueId": "soc",
+        "updated": 1694551987883075000,
+        "userId": "",
+        "visibility": "A",
+        "workspaceId": ""
+      },
+      {
+        "created": 1694551987881157000,
+        "createdFormatted": "2023/09/12 22:53:07",
+        "name": "Modbus",
+        "translations": [
+          {
+            "languageId": "fa",
+            "linkerId": "modbus",
+            "name": "مدباس"
+          }
+        ],
+        "uniqueId": "modbus",
+        "updated": 1694551987881157000,
+        "userId": "",
+        "visibility": "A",
+        "workspaceId": ""
+      }
+    ],
+    "itemsPerPage": 9999,
+    "startIndex": 0,
+    "totalAvailableItems": 2,
+    "totalItems": 2
+  }
+}

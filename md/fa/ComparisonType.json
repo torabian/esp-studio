@@ -1,0 +1,82 @@
+{
+  "data": {
+    "items": [
+      {
+        "created": 1694551987873291000,
+        "createdFormatted": "۲۱ شهریور ۱۴۰۲",
+        "linkerId": "moreThan",
+        "name": "کمتر از",
+        "translations": [
+          {
+            "languageId": "fa",
+            "linkerId": "moreThan",
+            "name": "کمتر از"
+          }
+        ],
+        "uniqueId": "moreThan",
+        "updated": 1694551987873291000,
+        "userId": "",
+        "visibility": "A",
+        "workspaceId": ""
+      },
+      {
+        "created": 1694551987870393000,
+        "createdFormatted": "۲۱ شهریور ۱۴۰۲",
+        "linkerId": "lessThan",
+        "name": "کمتر",
+        "translations": [
+          {
+            "languageId": "fa",
+            "linkerId": "lessThan",
+            "name": "کمتر"
+          }
+        ],
+        "uniqueId": "lessThan",
+        "updated": 1694551987870393000,
+        "userId": "",
+        "visibility": "A",
+        "workspaceId": ""
+      },
+      {
+        "created": 1694551987868811000,
+        "createdFormatted": "۲۱ شهریور ۱۴۰۲",
+        "linkerId": "notEqual",
+        "name": "نامساوی",
+        "translations": [
+          {
+            "languageId": "fa",
+            "linkerId": "notEqual",
+            "name": "نامساوی"
+          }
+        ],
+        "uniqueId": "notEqual",
+        "updated": 1694551987868811000,
+        "userId": "",
+        "visibility": "A",
+        "workspaceId": ""
+      },
+      {
+        "created": 1694551987806591000,
+        "createdFormatted": "۲۱ شهریور ۱۴۰۲",
+        "linkerId": "equal",
+        "name": "مساوی",
+        "translations": [
+          {
+            "languageId": "fa",
+            "linkerId": "equal",
+            "name": "مساوی"
+          }
+        ],
+        "uniqueId": "equal",
+        "updated": 1694551987806591000,
+        "userId": "",
+        "visibility": "A",
+        "workspaceId": ""
+      }
+    ],
+    "itemsPerPage": 9999,
+    "startIndex": 0,
+    "totalAvailableItems": 4,
+    "totalItems": 4
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "data": {
+    "items": [
+      {
+        "created": 1694551987930197000,
+        "createdFormatted": "۲۱ شهریور ۱۴۰۲",
+        "deviceModbusConfig": {
+          "baudRate": 9600,
+          "created": 1694551987930640000,
+          "dataBits": 8,
+          "linkerId": "device_modbus",
+          "parity": 2,
+          "stopBit": 4,
+          "timeout": 2000,
+          "uniqueId": "3a2f9e77",
+          "updated": 1694551987930640000
+        },
+        "ip": "192.168.1.2",
+        "linkerId": "device_modbus",
+        "model": "298031984920",
+        "name": "دستگاه شماره ۱",
+        "securityType": "WAP2",
+        "translations": [
+          {
+            "languageId": "fa",
+            "linkerId": "device_modbus",
+            "name": "دستگاه شماره ۱"
+          }
+        ],
+        "type": {
+          "created": 1694551987881157000,
+          "name": "Modbus",
+          "uniqueId": "modbus",
+          "updated": 1694551987881157000,
+          "userId": "",
+          "visibility": "A",
+          "workspaceId": ""
+        },
+        "typeId": "modbus",
+        "uniqueId": "device_modbus",
+        "updated": 1694551987930197000,
+        "userId": "",
+        "visibility": "A",
+        "wifiPassword": "12345678",
+        "wifiSSID": "WIFI-SMDQ",
+        "workspaceId": ""
+      }
+    ],
+    "itemsPerPage": 9999,
+    "startIndex": 0,
+    "totalAvailableItems": 1,
+    "totalItems": 1
+  }
+}
