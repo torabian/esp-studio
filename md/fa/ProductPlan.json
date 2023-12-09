@@ -1,0 +1,86 @@
+{
+  "data": {
+    "items": [
+      {
+        "created": 1697656770209321000,
+        "createdFormatted": "۲۶ مهر ۱۴۰۲",
+        "duration": 10,
+        "linkerId": "email_sender_only",
+        "name": "مدیریت ایمیل سرویس",
+        "permissions": [
+          {
+            "capabilityId": "root/emailsender/*",
+            "created": 1697656770209662000,
+            "linkerId": "email_sender_only",
+            "uniqueId": "d8d78b72",
+            "updated": 1697656770209662000
+          }
+        ],
+        "product": {
+          "created": 1697656770205175000,
+          "name": "OSB Media player",
+          "publicKey": "ARR2YUC4DPYH2CDG556BYDZXWVMD2WEFFO3XOA7F3MTAGXCZSPZXTCZL2KPT3OVGXQIB27QCXLB6CIYFLD66V43QAN5KU2I2MATQ7VTTW7N74HINXZL372HZY7PYOJSE4WU6X5ZJJN2QD5M2NWWC47X7ZLVQ====",
+          "uniqueId": "osb_media_player",
+          "updated": 1697656770205175000,
+          "userId": "",
+          "workspaceId": ""
+        },
+        "productId": "osb_media_player",
+        "translations": [
+          {
+            "languageId": "fa",
+            "linkerId": "email_sender_only",
+            "name": "مدیریت ایمیل سرویس"
+          }
+        ],
+        "uniqueId": "email_sender_only",
+        "updated": 1697656770209321000,
+        "userId": "",
+        "visibility": "A",
+        "workspaceId": ""
+      },
+      {
+        "created": 1697656770207905000,
+        "createdFormatted": "۲۶ مهر ۱۴۰۲",
+        "duration": 5,
+        "linkerId": "virtual_account_only",
+        "name": "مدیریت کیف پول ها",
+        "permissions": [
+          {
+            "capabilityId": "root/virtualaccount/*",
+            "created": 1697656770208251000,
+            "linkerId": "virtual_account_only",
+            "uniqueId": "bf10d054",
+            "updated": 1697656770208251000
+          }
+        ],
+        "product": {
+          "created": 1697656770205175000,
+          "name": "OSB Media player",
+          "publicKey": "ARR2YUC4DPYH2CDG556BYDZXWVMD2WEFFO3XOA7F3MTAGXCZSPZXTCZL2KPT3OVGXQIB27QCXLB6CIYFLD66V43QAN5KU2I2MATQ7VTTW7N74HINXZL372HZY7PYOJSE4WU6X5ZJJN2QD5M2NWWC47X7ZLVQ====",
+          "uniqueId": "osb_media_player",
+          "updated": 1697656770205175000,
+          "userId": "",
+          "workspaceId": ""
+        },
+        "productId": "osb_media_player",
+        "translations": [
+          {
+            "languageId": "fa",
+            "linkerId": "virtual_account_only",
+            "name": "مدیریت کیف پول ها"
+          }
+        ],
+        "uniqueId": "virtual_account_only",
+        "updated": 1697656770207905000,
+        "userId": "",
+        "visibility": "A",
+        "workspaceId": ""
+      }
+    ],
+    "itemsPerPage": 9999,
+    "startIndex": 0,
+    "totalAvailableItems": 2,
+    "totalItems": 2
+  }
+}

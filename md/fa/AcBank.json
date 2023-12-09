@@ -1,0 +1,46 @@
+{
+  "data": {
+    "items": [
+      {
+        "created": 1697656765915508000,
+        "createdFormatted": "۲۶ مهر ۱۴۰۲",
+        "linkerId": "bank_mellat_iran",
+        "name": "بانک ملت ایران",
+        "translations": [
+          {
+            "languageId": "fa",
+            "linkerId": "bank_mellat_iran",
+            "name": "بانک ملت ایران"
+          }
+        ],
+        "uniqueId": "bank_mellat_iran",
+        "updated": 1697656765915508000,
+        "userId": "",
+        "visibility": "A",
+        "workspaceId": ""
+      },
+      {
+        "created": 1697656765914438000,
+        "createdFormatted": "۲۶ مهر ۱۴۰۲",
+        "linkerId": "bank_melli_iran",
+        "name": "بانک ملی ایران",
+        "translations": [
+          {
+            "languageId": "fa",
+            "linkerId": "bank_melli_iran",
+            "name": "بانک ملی ایران"
+          }
+        ],
+        "uniqueId": "bank_melli_iran",
+        "updated": 1697656765914438000,
+        "userId": "",
+        "visibility": "A",
+        "workspaceId": ""
+      }
+    ],
+    "itemsPerPage": 9999,
+    "startIndex": 0,
+    "totalAvailableItems": 2,
+    "totalItems": 2
+  }
+}

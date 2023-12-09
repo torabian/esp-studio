@@ -2,8 +2,8 @@
   "data": {
     "items": [
       {
-        "created": 1694551987885108000,
-        "createdFormatted": "۲۱ شهریور ۱۴۰۲",
+        "created": 1697656771027999000,
+        "createdFormatted": "۲۶ مهر ۱۴۰۲",
         "linkerId": "rtu",
         "name": "RTU",
         "translations": [
@@ -14,7 +14,7 @@
           }
         ],
         "uniqueId": "rtu",
-        "updated": 1694551987885108000,
+        "updated": 1697656771027999000,
         "userId": "",
         "visibility": "A",
         "workspaceId": ""

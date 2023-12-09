@@ -1,51 +1,15 @@
 {
   "data": {
     "passport": null,
-    "token": "52fdfc072182654f163f5f0f9a621d729566c74d10037c4d7bbb0407d1e2c649",
+    "token": "51df9cd00fca7242810e68866e3f4c91a766a92f4d0ef41b2eaca96b5116af35",
     "user": {
+      "uniqueId": "36a803fb",
+      "userId": "cf97f228",
       "firstName": "علی",
       "lastName": "ترابی",
-      "uniqueId": "8d0f7eaa",
-      "updated": 1694551990575912000,
-      "created": 1694551990575912000
+      "updated": 1697656768328836000,
+      "created": 1697656768328836000
     },
-    "userRoleWorkspaces": [
-      {
-        "workspace": {
-          "name": "علی",
-          "uniqueId": "3aad3ed4",
-          "updated": 1694551991898085000,
-          "created": 1694551991898085000,
-          "parentId": "root"
-        },
-        "workspaceId": "3aad3ed4",
-        "role": {
-          "uniqueId": "f8b2345e",
-          "name": "Administrator",
-          "capabilities": [
-            {
-              "uniqueId": "root/*",
-              "updated": 1694551986395088000,
-              "created": 1694551986395088000
-            }
-          ],
-          "workspaceId": "3aad3ed4",
-          "updated": 1694551991898374000,
-          "created": 1694551991898374000
-        },
-        "roleId": "f8b2345e",
-        "user": {
-          "firstName": "علی",
-          "lastName": "ترابی",
-          "uniqueId": "8d0f7eaa",
-          "updated": 1694551990575912000,
-          "created": 1694551990575912000
-        },
-        "userId": "8d0f7eaa",
-        "uniqueId": "11acb62b",
-        "updated": 1694551991898782000,
-        "created": 1694551991898782000
-      }
-    ]
+    "userRoleWorkspaces": []
   }
 }

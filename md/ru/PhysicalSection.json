@@ -1,0 +1,63 @@
+{
+  "data": {
+    "items": [
+      {
+        "created": 1697656771007906000,
+        "createdFormatted": "2023/10/18 21:19:31",
+        "name": "Dirty Kitchen",
+        "parentId": "golbargkitchen",
+        "uniqueId": "golbargkitchendirty",
+        "updated": 1697656771007906000,
+        "userId": "",
+        "visibility": "A",
+        "workspaceId": ""
+      },
+      {
+        "created": 1697656771006883000,
+        "createdFormatted": "2023/10/18 21:19:31",
+        "name": "Clean Kitchen",
+        "parentId": "golbargkitchen",
+        "uniqueId": "golbargkitchenclean",
+        "updated": 1697656771006883000,
+        "userId": "",
+        "visibility": "A",
+        "workspaceId": ""
+      },
+      {
+        "created": 1697656771005821000,
+        "createdFormatted": "2023/10/18 21:19:31",
+        "name": "Golbarg Kitchen",
+        "parentId": "golbargbuilding",
+        "uniqueId": "golbargkitchen",
+        "updated": 1697656771005821000,
+        "userId": "",
+        "visibility": "A",
+        "workspaceId": ""
+      },
+      {
+        "created": 1697656771004588000,
+        "createdFormatted": "2023/10/18 21:19:31",
+        "name": "Golbarg Building",
+        "uniqueId": "golbargbuilding",
+        "updated": 1697656771004588000,
+        "userId": "",
+        "visibility": "A",
+        "workspaceId": ""
+      },
+      {
+        "created": 1697656771003354000,
+        "createdFormatted": "2023/10/18 21:19:31",
+        "name": "Building 1",
+        "uniqueId": "building1",
+        "updated": 1697656771003354000,
+        "userId": "",
+        "visibility": "A",
+        "workspaceId": ""
+      }
+    ],
+    "itemsPerPage": 9999,
+    "startIndex": 0,
+    "totalAvailableItems": 5,
+    "totalItems": 5
+  }
+}

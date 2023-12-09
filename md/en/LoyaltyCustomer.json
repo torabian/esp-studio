@@ -1,0 +1,165 @@
+{
+  "data": {
+    "items": [
+      {
+        "businessData": {
+          "created": 1697656766610559000,
+          "name": "Nedayi coffe company",
+          "taxNumber": "2910928",
+          "translations": [
+            {
+              "languageId": "fa",
+              "linkerId": "864aca55",
+              "name": "شرکت قهوه ندایی"
+            },
+            {
+              "languageId": "fa",
+              "linkerId": "864aca55",
+              "name": "شرکت قهوه ندایی"
+            }
+          ],
+          "uniqueId": "864aca55",
+          "updated": 1697656766610559000,
+          "userId": "",
+          "workspaceId": ""
+        },
+        "businessDataId": "864aca55",
+        "created": 1697656766614205000,
+        "createdFormatted": "2023/10/18 21:19:26",
+        "locations": [
+          {
+            "created": 1697656766612896000,
+            "lat": 35.72085361328543,
+            "lng": 51.4237730660889,
+            "physicalAddress": "اقلیمی",
+            "uniqueId": "256a44ac",
+            "updated": 1697656766612896000,
+            "userId": "",
+            "workspaceId": ""
+          },
+          {
+            "created": 1697656766611858000,
+            "lat": 35.69030342379057,
+            "lng": 51.38994229594488,
+            "physicalAddress": "تهران کاخ مرمر",
+            "uniqueId": "3a12cc01",
+            "updated": 1697656766611858000,
+            "userId": "",
+            "workspaceId": ""
+          }
+        ],
+        "type": {
+          "created": 1697656766603512000,
+          "title": "Business",
+          "translations": [
+            {
+              "languageId": "fa",
+              "linkerId": "business",
+              "title": "شخص حقوقی"
+            },
+            {
+              "languageId": "pl",
+              "linkerId": "business",
+              "title": "firmowe"
+            }
+          ],
+          "uniqueId": "business",
+          "updated": 1697656766603512000,
+          "userId": "",
+          "visibility": "A",
+          "workspaceId": ""
+        },
+        "typeId": "business",
+        "uniqueId": "nedyai_coffee",
+        "updated": 1697656766614205000,
+        "userId": "",
+        "visibility": "A",
+        "workspaceId": ""
+      },
+      {
+        "created": 1697656766608976000,
+        "createdFormatted": "2023/10/18 21:19:26",
+        "fullName": " ",
+        "locations": [
+          {
+            "created": 1697656766608093000,
+            "lat": 35.72085361328543,
+            "lng": 51.4237730660889,
+            "physicalAddress": "اقلیمی",
+            "uniqueId": "2b37ba2f",
+            "updated": 1697656766608093000,
+            "userId": "",
+            "workspaceId": ""
+          },
+          {
+            "created": 1697656766607093000,
+            "lat": 35.69030342379057,
+            "lng": 51.38994229594488,
+            "physicalAddress": "تهران کاخ مرمر",
+            "uniqueId": "bcf955bd",
+            "updated": 1697656766607093000,
+            "userId": "",
+            "workspaceId": ""
+          }
+        ],
+        "personalData": {
+          "created": 1697656766605650000,
+          "firstName": "Ali",
+          "lastName": "Torabi",
+          "nationalId": "۴۲۷۰۰۰۰۰۰",
+          "phoneNumber": "۰۹۱۹۹۴۹۳۹۴۱",
+          "translations": [
+            {
+              "firstName": "علی",
+              "languageId": "fa",
+              "lastName": "ترابی",
+              "linkerId": "8a265e19"
+            },
+            {
+              "firstName": "علی",
+              "languageId": "fa",
+              "lastName": "ترابی",
+              "linkerId": "8a265e19"
+            }
+          ],
+          "uniqueId": "8a265e19",
+          "updated": 1697656766605650000,
+          "userId": "",
+          "workspaceId": ""
+        },
+        "personalDataId": "8a265e19",
+        "type": {
+          "created": 1697656766601955000,
+          "title": "Personal",
+          "translations": [
+            {
+              "languageId": "fa",
+              "linkerId": "personal",
+              "title": "شخص حقیقی"
+            },
+            {
+              "languageId": "pl",
+              "linkerId": "personal",
+              "title": "Prywatne"
+            }
+          ],
+          "uniqueId": "personal",
+          "updated": 1697656766601955000,
+          "userId": "",
+          "visibility": "A",
+          "workspaceId": ""
+        },
+        "typeId": "personal",
+        "uniqueId": "torabi",
+        "updated": 1697656766608976000,
+        "userId": "",
+        "visibility": "A",
+        "workspaceId": ""
+      }
+    ],
+    "itemsPerPage": 9999,
+    "startIndex": 0,
+    "totalAvailableItems": 2,
+    "totalItems": 2
+  }
+}

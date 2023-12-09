@@ -1,0 +1,42 @@
+{
+  "data": {
+    "items": [
+      {
+        "created": 1697656766633759000,
+        "createdFormatted": "2023/10/18 21:19:26",
+        "name": "2010-2011",
+        "translations": [
+          {
+            "languageId": "fa",
+            "linkerId": "1400-1401",
+            "name": "سال ۱۴۰۰- ۱۴۰۱"
+          }
+        ],
+        "uniqueId": "1400-1401",
+        "updated": 1697656766633759000,
+        "userId": "",
+        "workspaceId": ""
+      },
+      {
+        "created": 1697656766632542000,
+        "createdFormatted": "2023/10/18 21:19:26",
+        "name": "2009-2010",
+        "translations": [
+          {
+            "languageId": "fa",
+            "linkerId": "88-89",
+            "name": "سال ۸۸-۸۹"
+          }
+        ],
+        "uniqueId": "88-89",
+        "updated": 1697656766632542000,
+        "userId": "",
+        "workspaceId": ""
+      }
+    ],
+    "itemsPerPage": 9999,
+    "startIndex": 0,
+    "totalAvailableItems": 2,
+    "totalItems": 2
+  }
+}

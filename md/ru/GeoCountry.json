@@ -1,0 +1,616 @@
+{
+  "data": {
+    "items": [
+      {
+        "commonName": "Zimbabwe",
+        "created": 1697656764537513000,
+        "createdFormatted": "2023/10/18 21:19:24",
+        "flag": "🇿🇼",
+        "officialName": "Republic of Zimbabwe",
+        "status": "officially-assigned",
+        "translations": [
+          {
+            "commonName": "Zimbabwe",
+            "linkerId": "zw",
+            "officialName": "Republic of Zimbabwe"
+          },
+          {
+            "commonName": "Zimbabwe",
+            "languageId": "en",
+            "linkerId": "zw",
+            "officialName": "Republic of Zimbabwe"
+          },
+          {
+            "commonName": "Zimbabwe",
+            "linkerId": "zw",
+            "officialName": "Republic of Zimbabwe"
+          },
+          {
+            "commonName": "Zimbabwe",
+            "linkerId": "zw",
+            "officialName": "Republic of Zimbabwe"
+          },
+          {
+            "commonName": "Zimbabwe",
+            "linkerId": "zw",
+            "officialName": "Republic of Zimbabwe"
+          },
+          {
+            "commonName": "Zimbabwe",
+            "languageId": "nd",
+            "linkerId": "zw",
+            "officialName": "Republic of Zimbabwe"
+          },
+          {
+            "commonName": "Zimbabwe",
+            "languageId": "ny",
+            "linkerId": "zw",
+            "officialName": "Republic of Zimbabwe"
+          },
+          {
+            "commonName": "Zimbabwe",
+            "languageId": "sn",
+            "linkerId": "zw",
+            "officialName": "Republic of Zimbabwe"
+          },
+          {
+            "commonName": "Zimbabwe",
+            "languageId": "st",
+            "linkerId": "zw",
+            "officialName": "Republic of Zimbabwe"
+          },
+          {
+            "commonName": "Zimbabwe",
+            "linkerId": "zw",
+            "officialName": "Republic of Zimbabwe"
+          },
+          {
+            "commonName": "Zimbabwe",
+            "languageId": "tn",
+            "linkerId": "zw",
+            "officialName": "Republic of Zimbabwe"
+          },
+          {
+            "commonName": "Zimbabwe",
+            "languageId": "ts",
+            "linkerId": "zw",
+            "officialName": "Republic of Zimbabwe"
+          },
+          {
+            "commonName": "Zimbabwe",
+            "languageId": "ve",
+            "linkerId": "zw",
+            "officialName": "Republic of Zimbabwe"
+          },
+          {
+            "commonName": "Zimbabwe",
+            "languageId": "xh",
+            "linkerId": "zw",
+            "officialName": "Republic of Zimbabwe"
+          },
+          {
+            "commonName": "Zimbabwe",
+            "linkerId": "zw",
+            "officialName": "Republic of Zimbabwe"
+          }
+        ],
+        "uniqueId": "zw",
+        "updated": 1697656764537513000,
+        "userId": "",
+        "visibility": "A",
+        "workspaceId": ""
+      },
+      {
+        "commonName": "Zambia",
+        "created": 1697656764536415000,
+        "createdFormatted": "2023/10/18 21:19:24",
+        "flag": "🇿🇲",
+        "officialName": "Republic of Zambia",
+        "status": "officially-assigned",
+        "translations": [
+          {
+            "commonName": "Zambia",
+            "languageId": "en",
+            "linkerId": "zm",
+            "officialName": "Republic of Zambia"
+          }
+        ],
+        "uniqueId": "zm",
+        "updated": 1697656764536415000,
+        "userId": "",
+        "visibility": "A",
+        "workspaceId": ""
+      },
+      {
+        "commonName": "South Africa",
+        "created": 1697656764535177000,
+        "createdFormatted": "2023/10/18 21:19:24",
+        "flag": "🇿🇦",
+        "officialName": "Republic of South Africa",
+        "status": "officially-assigned",
+        "translations": [
+          {
+            "commonName": "South Africa",
+            "languageId": "af",
+            "linkerId": "za",
+            "officialName": "Republiek van Suid-Afrika"
+          },
+          {
+            "commonName": "South Africa",
+            "languageId": "en",
+            "linkerId": "za",
+            "officialName": "Republic of South Africa"
+          },
+          {
+            "commonName": "Sewula Afrika",
+            "languageId": "nr",
+            "linkerId": "za",
+            "officialName": "IRiphabliki yeSewula Afrika"
+          },
+          {
+            "commonName": "Afrika-Borwa",
+            "linkerId": "za",
+            "officialName": "Rephaboliki ya Afrika-Borwa "
+          },
+          {
+            "commonName": "Afrika Borwa",
+            "languageId": "st",
+            "linkerId": "za",
+            "officialName": "Rephaboliki ya Afrika Borwa"
+          },
+          {
+            "commonName": "Ningizimu Afrika",
+            "languageId": "ss",
+            "linkerId": "za",
+            "officialName": "IRiphabhulikhi yeNingizimu Afrika"
+          },
+          {
+            "commonName": "Aforika Borwa",
+            "languageId": "tn",
+            "linkerId": "za",
+            "officialName": "Rephaboliki ya Aforika Borwa"
+          },
+          {
+            "commonName": "Afrika Dzonga",
+            "languageId": "ts",
+            "linkerId": "za",
+            "officialName": "Riphabliki ra Afrika Dzonga"
+          },
+          {
+            "commonName": "Afurika Tshipembe",
+            "languageId": "ve",
+            "linkerId": "za",
+            "officialName": "Riphabuḽiki ya Afurika Tshipembe"
+          },
+          {
+            "commonName": "Mzantsi Afrika",
+            "languageId": "xh",
+            "linkerId": "za",
+            "officialName": "IRiphabliki yaseMzantsi Afrika"
+          },
+          {
+            "commonName": "Ningizimu Afrika",
+            "languageId": "zu",
+            "linkerId": "za",
+            "officialName": "IRiphabliki yaseNingizimu Afrika"
+          }
+        ],
+        "uniqueId": "za",
+        "updated": 1697656764535177000,
+        "userId": "",
+        "visibility": "A",
+        "workspaceId": ""
+      },
+      {
+        "commonName": "Yemen",
+        "created": 1697656764534028000,
+        "createdFormatted": "2023/10/18 21:19:24",
+        "flag": "🇾🇪",
+        "officialName": "Republic of Yemen",
+        "status": "officially-assigned",
+        "translations": [
+          {
+            "commonName": "اليَمَن",
+            "languageId": "ar",
+            "linkerId": "ye",
+            "officialName": "الجمهورية اليمنية"
+          }
+        ],
+        "uniqueId": "ye",
+        "updated": 1697656764534028000,
+        "userId": "",
+        "visibility": "A",
+        "workspaceId": ""
+      },
+      {
+        "commonName": "Samoa",
+        "created": 1697656764532386000,
+        "createdFormatted": "2023/10/18 21:19:24",
+        "flag": "🇼🇸",
+        "officialName": "Independent State of Samoa",
+        "status": "officially-assigned",
+        "translations": [
+          {
+            "commonName": "Samoa",
+            "languageId": "en",
+            "linkerId": "ws",
+            "officialName": "Independent State of Samoa"
+          },
+          {
+            "commonName": "Sāmoa",
+            "languageId": "sm",
+            "linkerId": "ws",
+            "officialName": "Malo Saʻoloto Tutoʻatasi o Sāmoa"
+          }
+        ],
+        "uniqueId": "ws",
+        "updated": 1697656764532386000,
+        "userId": "",
+        "visibility": "A",
+        "workspaceId": ""
+      },
+      {
+        "commonName": "Wallis and Futuna",
+        "created": 1697656764531291000,
+        "createdFormatted": "2023/10/18 21:19:24",
+        "flag": "🇼🇫",
+        "officialName": "Territory of the Wallis and Futuna Islands",
+        "status": "officially-assigned",
+        "translations": [
+          {
+            "commonName": "Wallis et Futuna",
+            "languageId": "fr",
+            "linkerId": "wf",
+            "officialName": "Territoire des îles Wallis et Futuna"
+          }
+        ],
+        "uniqueId": "wf",
+        "updated": 1697656764531291000,
+        "userId": "",
+        "visibility": "A",
+        "workspaceId": ""
+      },
+      {
+        "commonName": "Vanuatu",
+        "created": 1697656764530186000,
+        "createdFormatted": "2023/10/18 21:19:24",
+        "flag": "🇻🇺",
+        "officialName": "Republic of Vanuatu",
+        "status": "officially-assigned",
+        "translations": [
+          {
+            "commonName": "Vanuatu",
+            "languageId": "bi",
+            "linkerId": "vu",
+            "officialName": "Ripablik blong Vanuatu"
+          },
+          {
+            "commonName": "Vanuatu",
+            "languageId": "en",
+            "linkerId": "vu",
+            "officialName": "Republic of Vanuatu"
+          },
+          {
+            "commonName": "Vanuatu",
+            "languageId": "fr",
+            "linkerId": "vu",
+            "officialName": "République de Vanuatu"
+          }
+        ],
+        "uniqueId": "vu",
+        "updated": 1697656764530186000,
+        "userId": "",
+        "visibility": "A",
+        "workspaceId": ""
+      },
+      {
+        "commonName": "Vietnam",
+        "created": 1697656764529082000,
+        "createdFormatted": "2023/10/18 21:19:24",
+        "flag": "🇻🇳",
+        "officialName": "Socialist Republic of Vietnam",
+        "status": "officially-assigned",
+        "translations": [
+          {
+            "commonName": "Việt Nam",
+            "languageId": "vi",
+            "linkerId": "vn",
+            "officialName": "Cộng hòa xã hội chủ nghĩa Việt Nam"
+          }
+        ],
+        "uniqueId": "vn",
+        "updated": 1697656764529082000,
+        "userId": "",
+        "visibility": "A",
+        "workspaceId": ""
+      },
+      {
+        "commonName": "United States Virgin Islands",
+        "created": 1697656764527951000,
+        "createdFormatted": "2023/10/18 21:19:24",
+        "flag": "🇻🇮",
+        "officialName": "Virgin Islands of the United States",
+        "status": "officially-assigned",
+        "translations": [
+          {
+            "commonName": "United States Virgin Islands",
+            "languageId": "en",
+            "linkerId": "vi",
+            "officialName": "Virgin Islands of the United States"
+          }
+        ],
+        "uniqueId": "vi",
+        "updated": 1697656764527951000,
+        "userId": "",
+        "visibility": "A",
+        "workspaceId": ""
+      },
+      {
+        "commonName": "British Virgin Islands",
+        "created": 1697656764526823000,
+        "createdFormatted": "2023/10/18 21:19:24",
+        "flag": "🇻🇬",
+        "officialName": "Virgin Islands",
+        "status": "officially-assigned",
+        "translations": [
+          {
+            "commonName": "British Virgin Islands",
+            "languageId": "en",
+            "linkerId": "vg",
+            "officialName": "Virgin Islands"
+          }
+        ],
+        "uniqueId": "vg",
+        "updated": 1697656764526823000,
+        "userId": "",
+        "visibility": "A",
+        "workspaceId": ""
+      },
+      {
+        "commonName": "Venezuela",
+        "created": 1697656764525728000,
+        "createdFormatted": "2023/10/18 21:19:24",
+        "flag": "🇻🇪",
+        "officialName": "Bolivarian Republic of Venezuela",
+        "status": "officially-assigned",
+        "translations": [
+          {
+            "commonName": "Venezuela",
+            "languageId": "es",
+            "linkerId": "ve",
+            "officialName": "República Bolivariana de Venezuela"
+          }
+        ],
+        "uniqueId": "ve",
+        "updated": 1697656764525728000,
+        "userId": "",
+        "visibility": "A",
+        "workspaceId": ""
+      },
+      {
+        "commonName": "Saint Vincent and the Grenadines",
+        "created": 1697656764524612000,
+        "createdFormatted": "2023/10/18 21:19:24",
+        "flag": "🇻🇨",
+        "officialName": "Saint Vincent and the Grenadines",
+        "status": "officially-assigned",
+        "translations": [
+          {
+            "commonName": "Saint Vincent and the Grenadines",
+            "languageId": "en",
+            "linkerId": "vc",
+            "officialName": "Saint Vincent and the Grenadines"
+          }
+        ],
+        "uniqueId": "vc",
+        "updated": 1697656764524612000,
+        "userId": "",
+        "visibility": "A",
+        "workspaceId": ""
+      },
+      {
+        "commonName": "Vatican City",
+        "created": 1697656764523492000,
+        "createdFormatted": "2023/10/18 21:19:24",
+        "flag": "🇻🇦",
+        "officialName": "Vatican City State",
+        "status": "officially-assigned",
+        "translations": [
+          {
+            "commonName": "Vaticano",
+            "languageId": "it",
+            "linkerId": "va",
+            "officialName": "Stato della Città del Vaticano"
+          },
+          {
+            "commonName": "Vaticanæ",
+            "languageId": "la",
+            "linkerId": "va",
+            "officialName": "Status Civitatis Vaticanæ"
+          }
+        ],
+        "uniqueId": "va",
+        "updated": 1697656764523492000,
+        "userId": "",
+        "visibility": "A",
+        "workspaceId": ""
+      },
+      {
+        "commonName": "Узбекистан",
+        "created": 1697656764522387000,
+        "createdFormatted": "2023/10/18 21:19:24",
+        "flag": "🇺🇿",
+        "linkerId": "uz",
+        "officialName": "Республика Узбекистан",
+        "status": "officially-assigned",
+        "translations": [
+          {
+            "commonName": "Узбекистан",
+            "languageId": "ru",
+            "linkerId": "uz",
+            "officialName": "Республика Узбекистан"
+          },
+          {
+            "commonName": "O‘zbekiston",
+            "languageId": "uz",
+            "linkerId": "uz",
+            "officialName": "O'zbekiston Respublikasi"
+          }
+        ],
+        "uniqueId": "uz",
+        "updated": 1697656764522387000,
+        "userId": "",
+        "visibility": "A",
+        "workspaceId": ""
+      },
+      {
+        "commonName": "United States",
+        "created": 1697656764521290000,
+        "createdFormatted": "2023/10/18 21:19:24",
+        "flag": "🇺🇸",
+        "officialName": "United States of America",
+        "status": "officially-assigned",
+        "translations": [
+          {
+            "commonName": "United States",
+            "languageId": "en",
+            "linkerId": "us",
+            "officialName": "United States of America"
+          },
+          {
+            "commonName": "آمریکا",
+            "languageId": "fa",
+            "linkerId": "us",
+            "officialName": "ایالات متحده آمریکا"
+          }
+        ],
+        "uniqueId": "us",
+        "updated": 1697656764521290000,
+        "userId": "",
+        "visibility": "A",
+        "workspaceId": ""
+      },
+      {
+        "commonName": "Uruguay",
+        "created": 1697656764519909000,
+        "createdFormatted": "2023/10/18 21:19:24",
+        "flag": "🇺🇾",
+        "officialName": "Oriental Republic of Uruguay",
+        "status": "officially-assigned",
+        "translations": [
+          {
+            "commonName": "Uruguay",
+            "languageId": "es",
+            "linkerId": "uy",
+            "officialName": "República Oriental del Uruguay"
+          }
+        ],
+        "uniqueId": "uy",
+        "updated": 1697656764519909000,
+        "userId": "",
+        "visibility": "A",
+        "workspaceId": ""
+      },
+      {
+        "commonName": "United States Minor Outlying Islands",
+        "created": 1697656764518834000,
+        "createdFormatted": "2023/10/18 21:19:24",
+        "flag": "🇺🇲",
+        "officialName": "United States Minor Outlying Islands",
+        "status": "officially-assigned",
+        "translations": [
+          {
+            "commonName": "United States Minor Outlying Islands",
+            "languageId": "en",
+            "linkerId": "um",
+            "officialName": "United States Minor Outlying Islands"
+          }
+        ],
+        "uniqueId": "um",
+        "updated": 1697656764518834000,
+        "userId": "",
+        "visibility": "A",
+        "workspaceId": ""
+      },
+      {
+        "commonName": "Ukraine",
+        "created": 1697656764517736000,
+        "createdFormatted": "2023/10/18 21:19:24",
+        "flag": "🇺🇦",
+        "officialName": "Ukraine",
+        "status": "officially-assigned",
+        "translations": [
+          {
+            "commonName": "Україна",
+            "languageId": "uk",
+            "linkerId": "ua",
+            "officialName": "Україна"
+          }
+        ],
+        "uniqueId": "ua",
+        "updated": 1697656764517736000,
+        "userId": "",
+        "visibility": "A",
+        "workspaceId": ""
+      },
+      {
+        "commonName": "Uganda",
+        "created": 1697656764516578000,
+        "createdFormatted": "2023/10/18 21:19:24",
+        "flag": "🇺🇬",
+        "officialName": "Republic of Uganda",
+        "status": "officially-assigned",
+        "translations": [
+          {
+            "commonName": "Uganda",
+            "languageId": "en",
+            "linkerId": "ug",
+            "officialName": "Republic of Uganda"
+          },
+          {
+            "commonName": "Uganda",
+            "languageId": "sw",
+            "linkerId": "ug",
+            "officialName": "Republic of Uganda"
+          }
+        ],
+        "uniqueId": "ug",
+        "updated": 1697656764516578000,
+        "userId": "",
+        "visibility": "A",
+        "workspaceId": ""
+      },
+      {
+        "commonName": "Tanzania",
+        "created": 1697656764515417000,
+        "createdFormatted": "2023/10/18 21:19:24",
+        "flag": "🇹🇿",
+        "officialName": "United Republic of Tanzania",
+        "status": "officially-assigned",
+        "translations": [
+          {
+            "commonName": "Tanzania",
+            "languageId": "en",
+            "linkerId": "tz",
+            "officialName": "United Republic of Tanzania"
+          },
+          {
+            "commonName": "Tanzania",
+            "languageId": "sw",
+            "linkerId": "tz",
+            "officialName": "Jamhuri ya Muungano wa Tanzania"
+          }
+        ],
+        "uniqueId": "tz",
+        "updated": 1697656764515417000,
+        "userId": "",
+        "visibility": "A",
+        "workspaceId": ""
+      }
+    ],
+    "itemsPerPage": 20,
+    "startIndex": 0,
+    "totalAvailableItems": 250,
+    "totalItems": 250
+  }
+}

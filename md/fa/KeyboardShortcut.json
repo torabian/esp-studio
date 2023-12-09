@@ -1,0 +1,234 @@
+{
+  "data": {
+    "items": [
+      {
+        "action": "انتخاب گزینه شماره ۶",
+        "created": 1697656765912978000,
+        "createdFormatted": "۲۶ مهر ۱۴۰۲",
+        "defaultCombination": {
+          "altKey": false,
+          "created": 1697656765913199000,
+          "ctrlKey": false,
+          "key": "Digit6",
+          "linkerId": "a240bcfd",
+          "metaKey": true,
+          "shiftKey": false,
+          "uniqueId": "c5c41d90",
+          "updated": 1697656765913199000
+        },
+        "linkerId": "a240bcfd",
+        "translations": [
+          {
+            "action": "انتخاب گزینه شماره ۶",
+            "languageId": "fa",
+            "linkerId": "a240bcfd"
+          }
+        ],
+        "uniqueId": "a240bcfd",
+        "updated": 1697656765912978000,
+        "userId": "",
+        "workspaceId": ""
+      },
+      {
+        "action": "انتخاب گزینه شماره ۵",
+        "created": 1697656765911252000,
+        "createdFormatted": "۲۶ مهر ۱۴۰۲",
+        "defaultCombination": {
+          "altKey": false,
+          "created": 1697656765911811000,
+          "ctrlKey": false,
+          "key": "Digit5",
+          "linkerId": "0b703c17",
+          "metaKey": true,
+          "shiftKey": false,
+          "uniqueId": "ae037d26",
+          "updated": 1697656765911811000
+        },
+        "linkerId": "0b703c17",
+        "translations": [
+          {
+            "action": "انتخاب گزینه شماره ۵",
+            "languageId": "fa",
+            "linkerId": "0b703c17"
+          }
+        ],
+        "uniqueId": "0b703c17",
+        "updated": 1697656765911252000,
+        "userId": "",
+        "workspaceId": ""
+      },
+      {
+        "action": "انتخاب گزینه شماره ۴",
+        "created": 1697656765910002000,
+        "createdFormatted": "۲۶ مهر ۱۴۰۲",
+        "defaultCombination": {
+          "altKey": false,
+          "created": 1697656765910262000,
+          "ctrlKey": false,
+          "key": "Digit4",
+          "linkerId": "37aca9a3",
+          "metaKey": true,
+          "shiftKey": false,
+          "uniqueId": "d9afa876",
+          "updated": 1697656765910262000
+        },
+        "linkerId": "37aca9a3",
+        "translations": [
+          {
+            "action": "انتخاب گزینه شماره ۴",
+            "languageId": "fa",
+            "linkerId": "37aca9a3"
+          }
+        ],
+        "uniqueId": "37aca9a3",
+        "updated": 1697656765910002000,
+        "userId": "",
+        "workspaceId": ""
+      },
+      {
+        "action": "انتخاب گزینه شماره ۳",
+        "created": 1697656765908725000,
+        "createdFormatted": "۲۶ مهر ۱۴۰۲",
+        "defaultCombination": {
+          "altKey": false,
+          "created": 1697656765908948000,
+          "ctrlKey": false,
+          "key": "Digit3",
+          "linkerId": "a004ad6f",
+          "metaKey": true,
+          "shiftKey": false,
+          "uniqueId": "46586e76",
+          "updated": 1697656765908948000
+        },
+        "linkerId": "a004ad6f",
+        "translations": [
+          {
+            "action": "انتخاب گزینه شماره ۳",
+            "languageId": "fa",
+            "linkerId": "a004ad6f"
+          }
+        ],
+        "uniqueId": "a004ad6f",
+        "updated": 1697656765908725000,
+        "userId": "",
+        "workspaceId": ""
+      },
+      {
+        "action": "انتخاب گزینه شماره ۲",
+        "created": 1697656765907147000,
+        "createdFormatted": "۲۶ مهر ۱۴۰۲",
+        "defaultCombination": {
+          "altKey": false,
+          "created": 1697656765907733000,
+          "ctrlKey": false,
+          "key": "Digit2",
+          "linkerId": "a4c05e42",
+          "metaKey": true,
+          "shiftKey": false,
+          "uniqueId": "b74440f0",
+          "updated": 1697656765907733000
+        },
+        "linkerId": "a4c05e42",
+        "translations": [
+          {
+            "action": "انتخاب گزینه شماره ۲",
+            "languageId": "fa",
+            "linkerId": "a4c05e42"
+          }
+        ],
+        "uniqueId": "a4c05e42",
+        "updated": 1697656765907147000,
+        "userId": "",
+        "workspaceId": ""
+      },
+      {
+        "action": "انتخاب گزینه شماره ۱",
+        "created": 1697656765905371000,
+        "createdFormatted": "۲۶ مهر ۱۴۰۲",
+        "defaultCombination": {
+          "altKey": false,
+          "created": 1697656765905985000,
+          "ctrlKey": false,
+          "key": "1",
+          "linkerId": "395a1fe6",
+          "metaKey": true,
+          "shiftKey": false,
+          "uniqueId": "6aa83db3",
+          "updated": 1697656765905985000
+        },
+        "linkerId": "395a1fe6",
+        "translations": [
+          {
+            "action": "انتخاب گزینه شماره ۱",
+            "languageId": "fa",
+            "linkerId": "395a1fe6"
+          }
+        ],
+        "uniqueId": "395a1fe6",
+        "updated": 1697656765905371000,
+        "userId": "",
+        "workspaceId": ""
+      },
+      {
+        "action": "صفحه قبلی",
+        "created": 1697656765903850000,
+        "createdFormatted": "۲۶ مهر ۱۴۰۲",
+        "defaultCombination": {
+          "altKey": false,
+          "created": 1697656765904072000,
+          "ctrlKey": false,
+          "key": "ArrowLeft",
+          "linkerId": "78bca6dc",
+          "metaKey": true,
+          "shiftKey": false,
+          "uniqueId": "9f0038a8",
+          "updated": 1697656765904072000
+        },
+        "linkerId": "78bca6dc",
+        "translations": [
+          {
+            "action": "صفحه قبلی",
+            "languageId": "fa",
+            "linkerId": "78bca6dc"
+          }
+        ],
+        "uniqueId": "78bca6dc",
+        "updated": 1697656765903850000,
+        "userId": "",
+        "workspaceId": ""
+      },
+      {
+        "action": "صفحه بعدی",
+        "created": 1697656765902489000,
+        "createdFormatted": "۲۶ مهر ۱۴۰۲",
+        "defaultCombination": {
+          "altKey": false,
+          "created": 1697656765902720000,
+          "ctrlKey": false,
+          "key": "ArrowRight",
+          "linkerId": "86c8b506",
+          "metaKey": true,
+          "shiftKey": false,
+          "uniqueId": "1ce09663",
+          "updated": 1697656765902720000
+        },
+        "linkerId": "86c8b506",
+        "translations": [
+          {
+            "action": "صفحه بعدی",
+            "languageId": "fa",
+            "linkerId": "86c8b506"
+          }
+        ],
+        "uniqueId": "86c8b506",
+        "updated": 1697656765902489000,
+        "userId": "",
+        "workspaceId": ""
+      }
+    ],
+    "itemsPerPage": 9999,
+    "startIndex": 0,
+    "totalAvailableItems": 8,
+    "totalItems": 8
+  }
+}

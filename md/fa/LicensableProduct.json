@@ -1,0 +1,64 @@
+{
+  "data": {
+    "items": [
+      {
+        "created": 1697656770206425000,
+        "createdFormatted": "۲۶ مهر ۱۴۰۲",
+        "linkerId": "fireback",
+        "name": "میکروسرویس فایربک",
+        "publicKey": "ATUBXOPK5CQBWOMI73MGMEW3FUSHMI4BGDM6U2VVBC2PL6HBVED3ES6ZKQRGGNU22RJA73KC33GB45CXBUE7N4ZYT7PDQ6NTZ2F7GGVBZHCZMM54SQHESNWKBUPVRTLFBKETTVF6QUZXGLF5CPJZRH7KR7DA====",
+        "translations": [
+          {
+            "languageId": "fa",
+            "linkerId": "fireback",
+            "name": "میکروسرویس فایربک"
+          }
+        ],
+        "uniqueId": "fireback",
+        "updated": 1697656770206425000,
+        "userId": "",
+        "workspaceId": ""
+      },
+      {
+        "created": 1697656770205175000,
+        "createdFormatted": "۲۶ مهر ۱۴۰۲",
+        "linkerId": "osb_media_player",
+        "name": "نرم افزار مدیا پلیر",
+        "publicKey": "ARR2YUC4DPYH2CDG556BYDZXWVMD2WEFFO3XOA7F3MTAGXCZSPZXTCZL2KPT3OVGXQIB27QCXLB6CIYFLD66V43QAN5KU2I2MATQ7VTTW7N74HINXZL372HZY7PYOJSE4WU6X5ZJJN2QD5M2NWWC47X7ZLVQ====",
+        "translations": [
+          {
+            "languageId": "fa",
+            "linkerId": "osb_media_player",
+            "name": "نرم افزار مدیا پلیر"
+          }
+        ],
+        "uniqueId": "osb_media_player",
+        "updated": 1697656770205175000,
+        "userId": "",
+        "workspaceId": ""
+      },
+      {
+        "created": 1697656770204050000,
+        "createdFormatted": "۲۶ مهر ۱۴۰۲",
+        "linkerId": "call_of_war",
+        "name": "بازی گاد وار",
+        "publicKey": "ATSF2IBK5YW6WZG3HJMBWNLNI5WIEK7TU3S67NQXOVTSWAC55KOILX2G7IHRQXKZN743MY7B4GOOVMOR56YPJKGZSDKWWE3AY4JQGYZ6YIPL6V4BBOG22TKUOQF5AEQQIZRJ5UC3WPML2KA3IZGNDR6LRCUQ====",
+        "translations": [
+          {
+            "languageId": "fa",
+            "linkerId": "call_of_war",
+            "name": "بازی گاد وار"
+          }
+        ],
+        "uniqueId": "call_of_war",
+        "updated": 1697656770204050000,
+        "userId": "",
+        "workspaceId": ""
+      }
+    ],
+    "itemsPerPage": 9999,
+    "startIndex": 0,
+    "totalAvailableItems": 3,
+    "totalItems": 3
+  }
+}

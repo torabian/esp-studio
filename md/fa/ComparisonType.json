@@ -2,8 +2,8 @@
   "data": {
     "items": [
       {
-        "created": 1694551987873291000,
-        "createdFormatted": "۲۱ شهریور ۱۴۰۲",
+        "created": 1697656771020800000,
+        "createdFormatted": "۲۶ مهر ۱۴۰۲",
         "linkerId": "moreThan",
         "name": "کمتر از",
         "translations": [
@@ -14,14 +14,14 @@
           }
         ],
         "uniqueId": "moreThan",
-        "updated": 1694551987873291000,
+        "updated": 1697656771020800000,
         "userId": "",
         "visibility": "A",
         "workspaceId": ""
       },
       {
-        "created": 1694551987870393000,
-        "createdFormatted": "۲۱ شهریور ۱۴۰۲",
+        "created": 1697656771019383000,
+        "createdFormatted": "۲۶ مهر ۱۴۰۲",
         "linkerId": "lessThan",
         "name": "کمتر",
         "translations": [
@@ -32,14 +32,14 @@
           }
         ],
         "uniqueId": "lessThan",
-        "updated": 1694551987870393000,
+        "updated": 1697656771019383000,
         "userId": "",
         "visibility": "A",
         "workspaceId": ""
       },
       {
-        "created": 1694551987868811000,
-        "createdFormatted": "۲۱ شهریور ۱۴۰۲",
+        "created": 1697656771018170000,
+        "createdFormatted": "۲۶ مهر ۱۴۰۲",
         "linkerId": "notEqual",
         "name": "نامساوی",
         "translations": [
@@ -50,14 +50,14 @@
           }
         ],
         "uniqueId": "notEqual",
-        "updated": 1694551987868811000,
+        "updated": 1697656771018170000,
         "userId": "",
         "visibility": "A",
         "workspaceId": ""
       },
       {
-        "created": 1694551987806591000,
-        "createdFormatted": "۲۱ شهریور ۱۴۰۲",
+        "created": 1697656771016921000,
+        "createdFormatted": "۲۶ مهر ۱۴۰۲",
         "linkerId": "equal",
         "name": "مساوی",
         "translations": [
@@ -68,7 +68,7 @@
           }
         ],
         "uniqueId": "equal",
-        "updated": 1694551987806591000,
+        "updated": 1697656771016921000,
         "userId": "",
         "visibility": "A",
         "workspaceId": ""

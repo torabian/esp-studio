@@ -1,0 +1,26 @@
+{
+  "data": {
+    "items": [
+      {
+        "created": 1697656766600680000,
+        "createdFormatted": "۲۶ مهر ۱۴۰۲",
+        "uniqueId": "sell",
+        "updated": 1697656766600680000,
+        "userId": "",
+        "workspaceId": ""
+      },
+      {
+        "created": 1697656766599262000,
+        "createdFormatted": "۲۶ مهر ۱۴۰۲",
+        "uniqueId": "buy",
+        "updated": 1697656766599262000,
+        "userId": "",
+        "workspaceId": ""
+      }
+    ],
+    "itemsPerPage": 100,
+    "startIndex": 0,
+    "totalAvailableItems": 2,
+    "totalItems": 2
+  }
+}

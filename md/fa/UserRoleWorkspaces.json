@@ -1,43 +1,6 @@
 {
   "data": {
-    "items": [
-      {
-        "created": 1694551991898782000,
-        "role": {
-          "capabilities": [
-            {
-              "created": 1694551986395088000,
-              "uniqueId": "root/*",
-              "updated": 1694551986395088000
-            }
-          ],
-          "created": 1694551991898374000,
-          "name": "Administrator",
-          "uniqueId": "f8b2345e",
-          "updated": 1694551991898374000,
-          "workspaceId": "3aad3ed4"
-        },
-        "roleId": "f8b2345e",
-        "uniqueId": "11acb62b",
-        "updated": 1694551991898782000,
-        "user": {
-          "created": 1694551990575912000,
-          "firstName": "علی",
-          "lastName": "ترابی",
-          "uniqueId": "8d0f7eaa",
-          "updated": 1694551990575912000
-        },
-        "userId": "8d0f7eaa",
-        "workspace": {
-          "created": 1694551991898085000,
-          "name": "علی",
-          "parentId": "root",
-          "uniqueId": "3aad3ed4",
-          "updated": 1694551991898085000
-        },
-        "workspaceId": "3aad3ed4"
-      }
-    ],
+    "items": [],
     "itemsPerPage": 0,
     "startIndex": 0,
     "totalAvailableItems": 0,
