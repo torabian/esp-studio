@@ -4,7 +4,7 @@
   "description": "ESP Studio dashboard manages gpio on esp32 series",
   "main": "index.js",
   "scripts": {
-    "deploy": "gh-pages -d out -t true"
+    "deploy": "gh-pages -d build -t true"
   },
   "repository": {
     "type": "git",
