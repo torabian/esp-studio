@@ -9,8 +9,8 @@ There is a web dashboard inside the project, and you need to configurate it befo
 Attention: Demo is a mock server, to work really with ESP32 series, you need to download
 binaries from releases, and flash it into your project.
 
-![esp-studio-gpio-control-light](assets/esp-studio-gpio-control-light.png "esp-studio-gpio-control-light")
-![esp-studio-gpio-control-dark](assets/esp-studio-gpio-control-dark.png "esp-studio-gpio-control-dark")
+![esp-studio-desktop-controlsheet-dark](assets/esp-studio-desktop-controlsheet-dark.png "esp-studio-desktop-controlsheet-dark")
+![esp-studio-desktop-controlsheet-light](assets/esp-studio-desktop-controlsheet-light.png "esp-studio-desktop-controlsheet-light")
 
 ## Steps
 
