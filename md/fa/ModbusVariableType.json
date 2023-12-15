@@ -2,8 +2,8 @@
   "data": {
     "items": [
       {
-        "created": 1697656771034256000,
-        "createdFormatted": "۲۶ مهر ۱۴۰۲",
+        "created": 1702678202319726000,
+        "createdFormatted": "۲۴ آذر ۱۴۰۲",
         "linkerId": "word",
         "name": "Word",
         "translations": [
@@ -14,14 +14,14 @@
           }
         ],
         "uniqueId": "word",
-        "updated": 1697656771034256000,
+        "updated": 1702678202319726000,
         "userId": "",
         "visibility": "A",
         "workspaceId": ""
       },
       {
-        "created": 1697656771032856000,
-        "createdFormatted": "۲۶ مهر ۱۴۰۲",
+        "created": 1702678202318112000,
+        "createdFormatted": "۲۴ آذر ۱۴۰۲",
         "linkerId": "integer",
         "name": "Integer",
         "translations": [
@@ -32,7 +32,7 @@
           }
         ],
         "uniqueId": "integer",
-        "updated": 1697656771032856000,
+        "updated": 1702678202318112000,
         "userId": "",
         "visibility": "A",
         "workspaceId": ""

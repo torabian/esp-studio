@@ -3,26 +3,26 @@
     "items": [
       {
         "connectionType": {
-          "created": 1697656771031319000,
+          "created": 1702678202316193000,
           "name": "TCP",
           "uniqueId": "tcp",
-          "updated": 1697656771031319000,
+          "updated": 1702678202316193000,
           "userId": "",
           "visibility": "A",
           "workspaceId": ""
         },
         "connectionTypeId": "tcp",
-        "created": 1697656771078029000,
-        "createdFormatted": "۲۶ مهر ۱۴۰۲",
+        "created": 1702678202376661000,
+        "createdFormatted": "۲۴ آذر ۱۴۰۲",
         "device": {
-          "created": 1697656771061537000,
+          "created": 1702678202355041000,
           "ip": "192.168.1.2",
           "model": "298031984920",
           "name": "Device 1",
           "securityType": "WAP2",
           "typeId": "modbus",
           "uniqueId": "device_modbus",
-          "updated": 1697656771061537000,
+          "updated": 1702678202355041000,
           "userId": "",
           "visibility": "A",
           "wifiPassword": "12345678",
@@ -32,10 +32,10 @@
         "deviceId": "device_modbus",
         "functionCode": {
           "code": 5,
-          "created": 1697656771038022000,
+          "created": 1702678202325296000,
           "name": "Write Single Coil",
           "uniqueId": "5",
-          "updated": 1697656771038022000,
+          "updated": 1702678202325296000,
           "userId": "",
           "visibility": "A",
           "workspaceId": ""
@@ -48,13 +48,13 @@
         "readInterval": 50,
         "register": 10,
         "uniqueId": "Task 1",
-        "updated": 1697656771078029000,
+        "updated": 1702678202376661000,
         "userId": "",
         "variableType": {
-          "created": 1697656771032856000,
+          "created": 1702678202318112000,
           "name": "Integer",
           "uniqueId": "integer",
-          "updated": 1697656771032856000,
+          "updated": 1702678202318112000,
           "userId": "",
           "visibility": "A",
           "workspaceId": ""

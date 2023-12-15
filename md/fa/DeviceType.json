@@ -2,8 +2,8 @@
   "data": {
     "items": [
       {
-        "created": 1697656771026449000,
-        "createdFormatted": "۲۶ مهر ۱۴۰۲",
+        "created": 1702678202310285000,
+        "createdFormatted": "۲۴ آذر ۱۴۰۲",
         "linkerId": "soc",
         "name": "سیستم بر چیپ",
         "translations": [
@@ -14,14 +14,14 @@
           }
         ],
         "uniqueId": "soc",
-        "updated": 1697656771026449000,
+        "updated": 1702678202310285000,
         "userId": "",
         "visibility": "A",
         "workspaceId": ""
       },
       {
-        "created": 1697656771025265000,
-        "createdFormatted": "۲۶ مهر ۱۴۰۲",
+        "created": 1702678202308589000,
+        "createdFormatted": "۲۴ آذر ۱۴۰۲",
         "linkerId": "modbus",
         "name": "مدباس",
         "translations": [
@@ -32,7 +32,7 @@
           }
         ],
         "uniqueId": "modbus",
-        "updated": 1697656771025265000,
+        "updated": 1702678202308589000,
         "userId": "",
         "visibility": "A",
         "workspaceId": ""

@@ -2,8 +2,8 @@
   "data": {
     "items": [
       {
-        "created": 1697656771020800000,
-        "createdFormatted": "۲۶ مهر ۱۴۰۲",
+        "created": 1702678202301965000,
+        "createdFormatted": "۲۴ آذر ۱۴۰۲",
         "linkerId": "moreThan",
         "name": "کمتر از",
         "translations": [
@@ -14,14 +14,14 @@
           }
         ],
         "uniqueId": "moreThan",
-        "updated": 1697656771020800000,
+        "updated": 1702678202301965000,
         "userId": "",
         "visibility": "A",
         "workspaceId": ""
       },
       {
-        "created": 1697656771019383000,
-        "createdFormatted": "۲۶ مهر ۱۴۰۲",
+        "created": 1702678202300264000,
+        "createdFormatted": "۲۴ آذر ۱۴۰۲",
         "linkerId": "lessThan",
         "name": "کمتر",
         "translations": [
@@ -32,14 +32,14 @@
           }
         ],
         "uniqueId": "lessThan",
-        "updated": 1697656771019383000,
+        "updated": 1702678202300264000,
         "userId": "",
         "visibility": "A",
         "workspaceId": ""
       },
       {
-        "created": 1697656771018170000,
-        "createdFormatted": "۲۶ مهر ۱۴۰۲",
+        "created": 1702678202298618000,
+        "createdFormatted": "۲۴ آذر ۱۴۰۲",
         "linkerId": "notEqual",
         "name": "نامساوی",
         "translations": [
@@ -50,14 +50,14 @@
           }
         ],
         "uniqueId": "notEqual",
-        "updated": 1697656771018170000,
+        "updated": 1702678202298618000,
         "userId": "",
         "visibility": "A",
         "workspaceId": ""
       },
       {
-        "created": 1697656771016921000,
-        "createdFormatted": "۲۶ مهر ۱۴۰۲",
+        "created": 1702678202296837000,
+        "createdFormatted": "۲۴ آذر ۱۴۰۲",
         "linkerId": "equal",
         "name": "مساوی",
         "translations": [
@@ -68,7 +68,7 @@
           }
         ],
         "uniqueId": "equal",
-        "updated": 1697656771016921000,
+        "updated": 1702678202296837000,
         "userId": "",
         "visibility": "A",
         "workspaceId": ""
